@@ -1,4 +1,4 @@
-I would like to create a Powershell tool to clean up space on the end users devices along with some logging mechanism to see the outcome for reporting and troubleshooting purposes. I will be updating this document on the go along aligned with my research and findings online.
+I would like to create a Powershell tool to clean up space on the end users devices along with some logging mechanism to see the outcome for reporting and troubleshooting purposes. I will be updating this document on the go aligned with my knowledge, research and findings online.
 
 Main goal is to clear storage in the following locations without impacting the users data:
 *******************************
@@ -34,9 +34,6 @@ Component Store Cleanup Recommended : No
 
 The operation completed successfully.
 ********************************************
-
-
-
 
 
 
