@@ -1,9 +1,9 @@
 I would like to create a Powershell tool to clean up space on the end users devices along with some logging mechanism to see the outcome for reporting and troubleshooting purposes. I will be updating this document on the go along aligned with my research and findings online.
 
 Main goal is to clear storage in the following locations without impacting the users data:
-*
+*******************************
 Will be updating this area soon
-*
+*******************************
 
 ## Analyse the size of component store (WinSxS folder)
 Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
