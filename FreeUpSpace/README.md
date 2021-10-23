@@ -2,7 +2,19 @@ Powershell tool to clear up unwanted space on the end users devices along with s
 
 Main goal is to clear storage in the following locations without impacting the users data:
 *******************************
-Will be updating this area soon
+* Windows Update Clean-up
+* Microsoft Defender Antivirus Files
+* Windows upgrade log files
+* Downloaded Program Files
+* Temporary Internet Files
+* Windows error reports and feedback diagnostics
+* DirectX Shader Cache
+* Delivery Optimisation Files
+* Device driver packages
+* Recycle Bin (optional)
+* Temporary files
+* Temporary Windows installation files
+* Thumbnails
 *******************************
 
 ## Analyse the size of component store (WinSxS folder)
